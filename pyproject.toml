@@ -1,0 +1,20 @@
+[project]
+name = "entry-below-no-part-13-01"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "eel>=0.18.2",
+    "httpx>=0.28.1",
+    "pandas>=2.3.3",
+    "pyotp>=2.9.0",
+    "pywebview>=6.1",
+    "pyyaml>=6.0.3",
+    "requests>=2.32.5",
+    "tvdatafeed",
+    "websocket-client>=1.9.0",
+]
+
+[tool.uv.sources]
+tvdatafeed = { git = "https://github.com/rongardF/tvdatafeed.git" }

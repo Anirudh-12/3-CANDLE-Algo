@@ -1,0 +1,1 @@
+{"pm_limit": "100", "trig_min": "12", "trig_max": "48", "break_buf": "0", "t1_pct": "0.5", "t2_pct": "1.0", "t3_mult": "2", "initial_qty_lots": 4, "t1_qty_lots": 3, "t2_qty_lots": 1, "start_time": "09:35", "stop_time": "10:45", "trail_pts": "12.0"}

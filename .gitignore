@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Logs and databases
+*.log
+log/
+exe_debug_log.txt
+test_results.log
+*.sqlite3
+
+# Environment variables & Credentials
+.env
+flattradecred.yaml
+flattradecred_data.yaml
+execonfig.json
+
+# VSCode
+.vscode/
+
+# Build and Temp folders
+output/
+_internal/
+__pycache__/
+*.txt
+!requirements.txt
+!README.md
+!symbols.txt

@@ -1,0 +1,10 @@
+﻿pyotp
+pyyaml
+requests
+httpx
+pywebview
+websocket-client
+pandas
+pyqt6
+git+https://github.com/rongardF/tvdatafeed.git
+pyzmq
