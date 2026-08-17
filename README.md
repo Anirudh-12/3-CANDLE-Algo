@@ -17,12 +17,8 @@ This is an algorithmic trading application that connects with the Flattrade OMS 
    .\.venv\Scripts\activate
    pip install -r requirements.txt
    ```
-2. Configure your credentials in `flattradecred.yaml` (or `.env`).
+2. Configure your credentials in `flattradecred.yaml`
 3. Run the application:
    ```bash
    python new_main.py
    ```
-
-## Note
-
-The original documentation for the FLATTRADE Python API can be found in `FLATTRADE_API_README.md`.
